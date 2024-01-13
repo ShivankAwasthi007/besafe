@@ -32,12 +32,6 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="/activation">
-                    <i class="nav-icon fas fa-charging-station"></i> Activation
-                </a>
-            </li>
-
-            <li class="nav-item">
                 <a class="nav-link" href="/privacy-policy">
                     <i class="nav-icon fas fa-lock"></i> Privacy Policy
                 </a>
