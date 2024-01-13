@@ -24,12 +24,6 @@
                     <i class="nav-icon fas fa-drafting-compass"></i> Custom Plans
                 </a>
             </li>
-            {{-- <li class="nav-title">Settings</li> --}}
-            <li class="nav-item">
-                <a class="nav-link" href="/settings">
-                    <i class="nav-icon fas fa-tools"></i> Settings
-                </a>
-            </li>
 
             <li class="nav-item">
                 <a class="nav-link" href="/privacy-policy">
